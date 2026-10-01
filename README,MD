@@ -1,0 +1,29 @@
+# MAIN-PROJECT - Cricket Player Performance Tracking Application
+
+**Project:** Salesforce CRM - CRICK
+
+**Team Members:**
+- Hemavathy
+- Hasina
+- Harini
+- Hindu
+- Jananistri
+
+**Objective:**
+To track and manage cricket player performance, stats, matches, and ranking using Salesforce platform.
+
+**Features Implemented:**
+1. Custom Object: Player, Match, Performance
+2. Custom Fields: Runs, Wickets, Average, Strike Rate, Role
+3. Tabs & Lightning App: CRICK App
+4. Flow Automation: Auto-calculate performance score
+5. Reports & Dashboard
+
+**Tools:**
+Salesforce Developer Org, Flow Builder, Lightning App Builder
+
+**Demo Video Link:** Paste your Google Drive link here
+**Salesforce Org Link:** Paste your org link here
+
+**GitHub Repo:**
+https://github.com/shemavathyshemavathy26-bot/MAIN-PROJECT
